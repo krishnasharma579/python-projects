@@ -6,7 +6,8 @@ A collection of Python projects created to practice and strengthen Python progra
 
 | Project                                            | Description                                                                                             |
 | -------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
-| [Student Record Manager](./student_record_manager) | A command-line application for managing student records using Python file handling and CRUD operations. |
+| [Student Record Manager](./student_record_manager) | A command-line application for managing student records using Python file handling and CRUD operations.
+| [Login Register System](./login_register_system)   | Python login and registration system using file handling.
 
 ## Concepts Covered
 
